@@ -1,1 +1,2 @@
-# fgp
+# My Food Magazine
+
